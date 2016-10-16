@@ -14,7 +14,7 @@ html{
     line-height: 1.6;
     /* ADD the Google sans-serif font to this font stack */
     
-    font-family: 'Roboto','Raleway','Droid Sans','Arial','Helvetica', sans-serif;
+    font-family: 'Roboto','Raleway','Droid Sans', sans-serif;
 }
 html, body{
     background-color: #B8ACFA;
@@ -22,13 +22,13 @@ html, body{
 h1{
     font-size: 6.854rem;
     /* ADD the Google serif font to this font stack */
-    font-family: 'Rokkitt','Arvo','Slabo 27px','Georgia','Times New Roman', serif;
+    font-family: 'Rokkitt','Arvo','Slabo 27px', serif;
     padding: 1rem 2rem;
 }
 h2{
     font-size: 4.23rem;
     /* ADD the Google serif font to this font stack */
-    font-family: 'Rokkitt','Arvo','Slabo 27px','Georgia','Times New Roman', serif;
+    font-family: 'Rokkitt','Arvo','Slabo 27px', serif;
     padding: 1rem 2rem;
 }
 nav li{
